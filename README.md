@@ -12,6 +12,7 @@ Also I like to listen to music and travel.
 - Javascript
 - Python
 - Node.js
+- Nest.js
 - React.js
 - Redux
 - MongoDB
